@@ -1,10 +1,10 @@
-*akun superadmin :*
+*akun superadmin*
 
 *username : super*
 
 *password : 123*
 
-
+---
 
 *DB VERSION : MySQL Ver 15.1 Distrib 10.5.10-MariaDB*
 
