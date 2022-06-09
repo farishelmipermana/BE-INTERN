@@ -15,9 +15,13 @@
 ---
 
 CARA INSTALLASI:
+
 langkah pertama, pada cmd, ketikkan `composer install` untuk menginstall seluruh dependency
+
 langkah kedua, pada cmd, ketikkan `php artisan migrate --seed`
+
 langkah ketiga, pada cmd, ketikkan `php artisan key:generate`
+
 langkah terakhir untuk menjalankan app ketikkan pada cmd `php artisan serve`
 
 ---
